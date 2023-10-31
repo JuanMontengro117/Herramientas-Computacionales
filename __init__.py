@@ -1,4 +1,4 @@
-from operations import add, resta
+from operations import add, resta, multiplicacion
 def game():
 	score = 0
 	while True:
